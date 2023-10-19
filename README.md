@@ -62,10 +62,13 @@ rendant le code asynchrone plus lisible.
 
 ### 3. React :
 
-- Qu'est-ce que Redux et quand devriez-vous l'utiliser avec React ?
+- Qu'est-ce qu'un composant React ?
 ```
-Redux est un gestionnaire d'état pour React, utile lorsque l'état doit être
-partagé entre plusieurs composants.
+un composant est une unité de construction de l'interface utilisateur qui encapsule
+la logique et l'apparence d'une partie de l'application. Les composants servent à
+rendre le développement plus modulaire, réutilisable et maintenable en fractionnant
+l'interface en petites pièces autonomes, appelées composants, qui peuvent être
+assemblées pour créer des interfaces utilisateur plus complexes.
 ```
 
 - Expliquez ce que sont les "refs" dans React.
